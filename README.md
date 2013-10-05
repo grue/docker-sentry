@@ -1,7 +1,14 @@
 docker-sentry
 ================
 
-Forked from crosbymichael/docker-cookbooks this is a continuation of his work.
+This is a [Docker](http://www.docker.io/) cookbook for deploying the 
+[Sentry](https://pypi.python.org/pypi/sentry) realtime event logging and
+aggregation platform.
+
+Authorship History
+------------------
+
+Forked from crosbymichael/docker-cookbooks, this is a continuation of his work.
 
 Environment Variables
 ---------------------
